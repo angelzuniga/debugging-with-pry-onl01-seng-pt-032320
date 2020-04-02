@@ -1,4 +1,5 @@
 def plus_two(num)
-    puts "#{num} + 2 "
-    return "5"
+      total = #{num} + 2
+    total
+    
 end
